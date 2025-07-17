@@ -1,6 +1,9 @@
 # Text-Mining-Assignment
 - Got 85%
 
+# How to Run
+Open .ipynb in working Google browser that supports Colab notebook
+
 # 📈 CTR Optimization & SEO Score Prediction Tool
 
 This project implements a modular pipeline to **forecast and optimize Click-Through Rate (CTR)** over a 5-year horizon. Using **probabilistic forecasting, clustering, and SEO scoring**, the system predicts realistic performance targets and evaluates how closely actual performance aligns with those targets.
@@ -50,8 +53,4 @@ The goal of this tool is to assist SEO analysts, digital marketers, or research 
 - SEO score generation for model alignment
 - Clear and interpretable outputs
 - Designed with explainability in mind for non-technical users
-
----
-
-## 📁 Project Structure
 
